@@ -1,0 +1,2 @@
+* This is great, I don't have much to add.  Lets get some data in a /data subdirectory and start wranging into a data table for visualization.  
+* Maybe also get trust metrics from specific LLms. https://www.trustmodel.ai/leaderboard and visualize it
