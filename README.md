@@ -7,3 +7,19 @@ This creates a strategic decision for marketing leadership. While increasing per
 
 The decision matters because it influences both immediate marketing outcomes and the sustainability of a brand’s customer relationships over time. A Chief Marketing Officer must consider a utilitarian approach when deciding if the benefits of deeper personalization outweigh the risks of consumer resistance, regulatory scrutiny, and long-term trust erosion. Choosing how far to push AI-driven personalization determines not only marketing efficiency but also how consumers perceive the brand’s integrity and respect for autonomy. This project examines that tradeoff to support a more informed, trust-aware personalization marketing strategy rather than exploiting consumer data to the fullest extent 
 
+APA Referenced Datasets 
+
+# Mobile broadband data
+(2025). World Bank Data360. https://data360.worldbank.org/en/indicator/WEF_GCIHH_MOBBBSUBPC?view=trend
+
+# ICT Goods Exports 
+(2025b). World Bank Data360. https://data360.worldbank.org/en/indicator/WB_WDI_TX_VAL_ICTG_ZS_UN
+
+# Regulatory Quality 
+(2025c). World Bank Data360. https://data360.worldbank.org/en/indicator/WB_WDI_RQ_PER_RNK
+
+# Secure Servers 
+(2025d). World Bank Data360. https://data360.worldbank.org/en/indicator/WB_WDI_IT_NET_SECR_P6
+
+# Individuals Internet Users Data 
+(2025e). World Bank Data360. https://data360.worldbank.org/en/indicator/WB_WDI_IT_NET_USER_ZS

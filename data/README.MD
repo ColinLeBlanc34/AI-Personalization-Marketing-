@@ -5,9 +5,9 @@
 **Source:** World Bank – World Development Indicators (WDI)  
 **Indicator Code:** IT.NET.USER.ZS  
 **Date Accessed:** Tues/Feb24/2026
-**URL:** https://data.worldbank.org  
+**URL:** World Bank Data360. https://data360.worldbank.org/en/indicator/WB_WDI_IT_NET_USER_ZS 
 
-**Description:**  
+Description:  
 This dataset measures the percentage of individuals using the internet within a country each year.
 
 **Relevance to Project:**  
@@ -20,8 +20,7 @@ Internet usage is used as a proxy for digital market penetration. Rising interne
 **Source:** World Bank – World Development Indicators (WDI)  
 **Indicator Code:** IT.NET.SECR.P6  
 **Date Accessed:** Tues/Feb24/2026
-**URL:** https://data.worldbank.org  
-
+**URL:** World Bank Data360. https://data360.worldbank.org/en/indicator/WB_WDI_IT_NET_SECR_P6
 **Description:**  
 This dataset reports the number of secure internet servers per one million people, serving as a proxy for digital commerce infrastructure.
 
@@ -35,7 +34,7 @@ Secure server growth indicates rising e-commerce activity and greater transactio
 **Source:** World Bank – World Development Indicators (WDI)  
 **Indicator Code:** BX.GSR.CCIS.ZS  
 **Date Accessed:** Tues/Feb24/2026
-**URL:** https://data.worldbank.org  
+**URL:** https://data360.worldbank.org/en/indicator/WB_WDI_TX_VAL_ICTG_ZS_UN 
 
 **Description:**  
 This dataset measures ICT service exports as a percentage of total exports, reflecting digital sector competitiveness.
@@ -50,7 +49,7 @@ Growing ICT export intensity signals competitive digital transformation pressure
 **Source:** World Bank – World Development Indicators (WDI)  
 **Indicator Code:** IT.CEL.SETS.P2 (or IT.NET.BBND.P2 depending on selection)  
 **Date Accessed:** Tues/Feb24/2026
-**URL:** https://data.worldbank.org  
+**URL:** https://data360.worldbank.org/en/indicator/WEF_GCIHH_MOBBBSUBPC 
 
 **Description:**  
 This dataset measures mobile connectivity penetration.
@@ -65,7 +64,7 @@ Higher mobile connectivity increases behavioral data availability and real-time 
 **Source:** World Bank – Worldwide Governance Indicators (WGI)  
 **Indicator Code:** GE.REG.QA.EST  
 **Date Accessed:** Tues/Feb24/2026
-**URL:** https://data.worldbank.org  
+**URL:** (2025c). World Bank Data360. https://data360.worldbank.org/en/indicator/WB_WDI_RQ_PER_RNK 
 
 **Description:**  
 This dataset measures perceptions of regulatory quality and governance effectiveness.
