@@ -40,7 +40,14 @@ The project uses a **Limits to Growth** structure to explain outcomes over time.
 - **Reinforcing loop (R1):** personalization depth ↑ → relevance/engagement ↑ → data generation ↑ → model quality ↑.
 - **Balancing loop (B1):** personalization depth ↑ → perceived intrusiveness ↑ → trust ↓ → engagement ↓.
 
-Detailed narrative and scenario text are in [`src/Analysis.md/System Archetype`](./src/Analysis.md/System%20Archetype).
+### CLD Explanation 
+The final causal loop diagram illustrates how AI-driven personalization operates as a dynamic system shaped by both reinforcing and balancing feedback processes. At the core of the system is a reinforcing loop (R1), referred to as the data-driven performance loop. In this loop, increased AI personalization depth improves ad relevance, which enhances consumer engagement. Higher engagement generates greater volumes of behavioral data, improving AI model effectiveness and enabling further refinement of personalization strategies. This self-reinforcing cycle explains the rapid adoption and scaling of AI-driven marketing practices, as early gains in performance justify continued investment.
+
+However, this growth is constrained by a balancing loop (B1), the trust constraint loop. As personalization becomes more intensive, consumers are more likely to perceive marketing efforts as intrusive. This increases perceived intrusiveness, which negatively affects consumer trust. Declining trust reduces engagement, weakening the flow of data that supports AI model improvement. Over time, this balancing process limits the effectiveness of additional personalization, producing a pattern consistent with a Limits to Growth system structure. While the reinforcing loop drives initial success, the balancing loop gradually offsets these gains, leading to diminishing returns.
+The interaction between these loops explains the system’s observed behavior: strong short-term performance followed by potential stagnation or decline if trust is not actively managed. The key leverage point within this system is consumer trust, as it directly influences the strength of the balancing loop. Interventions such as improving transparency, enhancing user control over data, and limiting overly intrusive targeting can reduce the negative impact of personalization on trust. By weakening the balancing loop, these actions allow the reinforcing loop to operate more sustainably.
+
+For the decision-maker, this system highlights a critical trade-off. Aggressive personalization strategies may maximize short-term engagement but accelerate the trust constraint, while more balanced approaches can sustain long-term performance. The diagram therefore supports a strategic choice to manage personalization in a way that preserves trust, rather than maximizing it without constraint.
+
 
 ## Analysis (Milestone 3)
 
