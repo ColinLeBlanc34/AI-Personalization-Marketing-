@@ -7,6 +7,15 @@ This creates a strategic decision for marketing leadership. While increasing per
 
 The decision matters because it influences both immediate marketing outcomes and the sustainability of a brand’s customer relationships over time. A Chief Marketing Officer must consider a utilitarian approach when deciding if the benefits of deeper personalization outweigh the risks of consumer resistance, regulatory scrutiny, and long-term trust erosion. Choosing how far to push AI-driven personalization determines not only marketing efficiency but also how consumers perceive the brand’s integrity and respect for autonomy. This project examines that tradeoff to support a more informed, trust-aware personalization marketing strategy rather than exploiting consumer data to the fullest extent 
 
+## Table of Contents
+- [Executive Summary](#executive-summary)
+- [Recommendation](#recommendation)
+- [APA Referenced Datasets](#apa-referenced-datasets)
+- [Mobile broadband data](#mobile-broadband-data)
+- [ICT Goods Exports](#ict-goods-exports)
+- [gulatory Quality](#regulatory-quality)
+- [Secure Servers](#secure-servers)
+- [Individuals Internet Users Data](#individuals-internet-users-data)
 
 # Recommendation 
 Instead of aggressively increasing personalization depth, it is advised that the CMO implement a trust-constrained AI personalization strategy. Although boosting customization can boost engagement and conversion rates in the short run, the analysis reveals that this strategy poses longer-term dangers by undermining customer confidence. A more sustainable approach to sustaining performance and brand strength over time is provided by a strategy that consciously controls how customization is implemented, through openness, consent, and moderation.
