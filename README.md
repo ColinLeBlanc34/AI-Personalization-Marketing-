@@ -11,11 +11,11 @@ The decision matters because it influences both immediate marketing outcomes and
 - [Executive Summary](#executive-summary)
 - [Recommendation](#recommendation)
 - [APA Referenced Datasets](#apa-referenced-datasets)
-  - [Mobile broadband data](#mobile-broadband-data)
-  - [ICT Goods Exports](#ict-goods-exports)
-  - [Regulatory Quality](#regulatory-quality)
-  - [Secure Servers](#secure-servers)
-  - [Individuals Internet Users Data](#individuals-internet-users-data)
+- [Mobile broadband data](#mobile-broadband-data)
+- [ICT Goods Exports](#ict-goods-exports)
+- [gulatory Quality](#regulatory-quality)
+- [Secure Servers](#secure-servers)
+- [Individuals Internet Users Data](#individuals-internet-users-data)
 
 # Recommendation 
 Instead of aggressively increasing personalization depth, it is advised that the CMO implement a trust-constrained AI personalization strategy. Although boosting customization can boost engagement and conversion rates in the short run, the analysis reveals that this strategy poses longer-term dangers by undermining customer confidence. A more sustainable approach to sustaining performance and brand strength over time is provided by a strategy that consciously controls how customization is implemented, through openness, consent, and moderation.
