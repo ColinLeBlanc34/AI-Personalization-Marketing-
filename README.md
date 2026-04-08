@@ -35,10 +35,7 @@ All datasets were sourced from World Bank Data360 and documented in [`data/READM
 Visual interpretation notes are in [`img/visualization-description.md`](./img/visualization-description.md).
 
 ## System Dynamics
-The project uses a **Limits to Growth** structure to explain outcomes over time.
-
-- **Reinforcing loop (R1):** personalization depth ↑ → relevance/engagement ↑ → data generation ↑ → model quality ↑.
-- **Balancing loop (B1):** personalization depth ↑ → perceived intrusiveness ↑ → trust ↓ → engagement ↓.
+<img width="1142" height="743" alt="Screenshot 2026-04-07 at 1 14 08 PM" src="https://github.com/user-attachments/assets/437dd174-4563-45fd-b99b-d54d7e405dcb" />
 
 ### CLD Explanation 
 The final causal loop diagram illustrates how AI-driven personalization operates as a dynamic system shaped by both reinforcing and balancing feedback processes. At the core of the system is a reinforcing loop (R1), referred to as the data-driven performance loop. In this loop, increased AI personalization depth improves ad relevance, which enhances consumer engagement. Higher engagement generates greater volumes of behavioral data, improving AI model effectiveness and enabling further refinement of personalization strategies. This self-reinforcing cycle explains the rapid adoption and scaling of AI-driven marketing practices, as early gains in performance justify continued investment.
